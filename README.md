@@ -6,7 +6,7 @@
 - **CSS3**
 
 ## 🔗Deployed Link
-- [Netlify](https://simplotel-assignment.netlify.app/)
+- [Netlify](https://hemanth-kumar-v.github.io/Simplotel-Assignment/)
 
 ## Screenshots
 1.
@@ -16,7 +16,6 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/100460788/236176221-a4cf21b8-4bb2-40c3-8fdf-e8156574070b.png)
 
 
-## Contributor
 
 
 
