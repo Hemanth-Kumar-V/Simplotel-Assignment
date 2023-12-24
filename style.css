@@ -74,7 +74,7 @@ nav ul li:hover a {
 
 /* banner section */
 .banner {
-  background: url(./assets/img1.jpg) no-repeat;
+  background: url(./images/img1.jpg) no-repeat;
   background-size: cover;
   height: 100vh;
   display: flex;
